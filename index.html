@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Welcome to Västerås Maps!</title>
+</head>
+<body>
+
+    <!-- #header-top -->
+    <section>
+    <div class="header">
+      <a href="index.html" class="a.logo">Västerås City Map</a>
+        <div class="header-right">
+        </div>
+    </div>
+    <!-- #profile container -->
+    <section class="main-container">
+         <div class="row no-gutters profile-container">
+            <div class="col-md-6 profile"></div>
+                    <div class="col heading">
+                    <h1 class="title">Welcome to <br>Västerås City Map!</h1>
+                    <p class="text-width about-bottom">Here you can find the finest restaurants in town, interesting 
+architecture and attractions, cozy hotels etc. Västerås also has beautiful parks, forests and amazing waterscapes of Mälaren which is a famous lake in Sweden.</p>
+                    </div>
+            <div class="col-md-8">
+                <div class="row no-gutters bg-color-name-title">
+                    <div class="col heading">
+                    </div>
+                </div>
+            </div>
+         </div>
+    </section>
+<section class="social-media-row">
+            <h2 class="sm-title">Subject of interest</h2>
+
+            <div id="buttons">
+            <input type="checkbox" name="filter" id="restaurant" class="chk-btn">
+            <label for='restaurant'>Restaurants</label>
+            <input type="checkbox" name="filter" id="hotel" class="chk-btn">
+            <label for='hotel'>Hotels</label>
+            <input type="checkbox" name="filter" id="attraction" class="chk-btn">
+            <label for='attraction'>Attractions</label>
+            </div>
+<br>
+<div id="map"></div>
+
+</section>
+<p><footer><span class="p-footer">2020 Copyright© Victoria P. Ben</span>
+</footer></p>
+    <script src="https://developers.google.com/maps/documentation/javascript/examples/markerclusterer/markerclusterer.js"></script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDDHHyac2SiOYPNYxXMK7rqJjnB8nCaaxE&callback=initMap"></script>
+    <script src="assets/js/map.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js"></script>
+</body>
+</html>
