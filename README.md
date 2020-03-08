@@ -3,13 +3,13 @@
 
 <p>This is a one-page website that includes 6 photo spots listed in Index and pinned on Google Maps using Javascript and API. This project is aimed on Photo enthusiasts who are travellers. You can search for places that a Nature Photography and Architecture photography oriented. Users can also use default pins from google that show restaurants, hotels and other events.</p>
 
-<h2>UX<h2>
+<h2>UX</h2>
 <p>I ran user interviews with potential users as a first step and as a second step created a prototype that I then tested and also presented to my mentor. Tests were iterated and the design changed after feedback to meet the User's need. As a potential traveller the most interesting genres in photography would be architecture and attractions, landscapes and nature altogether.</p> 
 
 <h2>My goals were:</h2><br>
-<li>- To create a responsive website which is welcoming</li>
-<li>- Focus on just two genres in photography for the MVP which is Nature and Architecture. This later can be developed</li>
-<li>- Attach brief information about each attraction on the website itself and on the pin windows with images</li>
+<li> To create a responsive website which is welcoming</li>
+<li> Focus on just two genres in photography for the MVP which is Nature and Architecture. This later can be developed</li>
+<li> Attach brief information about each attraction on the website itself and on the pin windows with images</li>
 
 <h2>Wireframes</h2>
 <p>The wireframes are created with Adobe XD as part of the design process. They were later saved in PDF, which is called Wireframes_Västerås_Maps. Page 1 is designed for desktop view and page 2 for mobile view.</p>
