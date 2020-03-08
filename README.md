@@ -1,7 +1,7 @@
 <h1>Photo Attractions in Västerås</h1>
 <p>This is my Milestone Project 2: Interactive Frontend Development - Code Institute.</p>
 
-<p>This is one-page website that includes 6 photo spots listed in Index and pinned on Google Maps using Javascript and API. This project is aimed on Photo enthusiasts who are travellers. You can search for places that a Nature Photography and Architecture photography oriented. Users can also use default pins from google that show restaurants, hotels and other events.</p>
+<p>This is a one-page website that includes 6 photo spots listed in Index and pinned on Google Maps using Javascript and API. This project is aimed on Photo enthusiasts who are travellers. You can search for places that a Nature Photography and Architecture photography oriented. Users can also use default pins from google that show restaurants, hotels and other events.</p>
 
 <h2>UX<h2>
 <p>I ran user interviews with potential users as a first step and as a second step created a prototype that I then tested and also presented to my mentor. Tests were iterated and the design changed after feedback to meet the User's need. As a potential traveller the most interesting genres in photography would be architecture and attractions, landscapes and nature altogether.</p> 
